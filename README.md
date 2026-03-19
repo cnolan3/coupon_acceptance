@@ -1,2 +1,3 @@
 # coupon_acceptance
-A data science project analyzing factors that influence whether a driver accepts a coupon delivered to their phone while driving.
+
+A data science project analyzing factors that influence whether a driver accepts a coupon delivered to their phone while driving. Using survey data from the UCI Machine Learning Repository (collected via Amazon Mechanical Turk), the project explores how user attributes (age, income, habits), contextual attributes (weather, time of day, passengers), and coupon attributes (type, expiration) affect acceptance rates across five coupon categories: bars, coffee houses, carry out, and restaurants at two price tiers. The analysis involves data cleaning, handling missing values, statistical summaries, and visualizations using pandas, matplotlib, and seaborn.
